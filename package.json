@@ -49,11 +49,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimbo7207/reactChallenge.git"
+    "url": "git+https://github.com/jimbo7207/portfolio-react-cp-master.git"
   },
   "author": "Jim Eisenhauer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jimbo7207/reactChallenge/issues"
+    "url": "https://github.com/jimbo7207/portfolio-react-cp-master/issues"
   }
 }
